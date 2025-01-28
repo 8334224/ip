@@ -42,4 +42,4 @@
 104.17.8.21#US12
 162.159.206.138#US13
 104.21.225.32#SEA
-www.visa.com.mt:80#Visa
+www.visa.com.mt#Visa

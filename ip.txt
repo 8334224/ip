@@ -54,11 +54,11 @@ www.visa.com.mt#Visa
 104.18.146.169#官邸7
 104.17.6.58#官邸8
 104.25.247.190#官邸9
-test123.zlqhdns.top:24318#官邸10
-test123.zlqhdns.top:10860#官邸10
-shenzhou05.mysynology.net:33782#官邸13
-bsuqian01.dynu.net:47531#官邸11
-hkre1-cdn-route.couldflare-cdn.com:443#官邸12
+test123.zlqhdns.top#官邸10
+test123.zlqhdns.top#官邸10
+shenzhou05.mysynology.net#官邸13
+bsuqian01.dynu.net#官邸11
+hkre1-cdn-route.couldflare-cdn.com#官邸12
 104.26.12.159#祥店1
 104.26.13.213#祥店10
 104.26.13.35#祥店11
@@ -80,6 +80,6 @@ hkre1-cdn-route.couldflare-cdn.com:443#官邸12
 162.159.34.140#祥店7
 104.26.12.164#祥店8
 104.26.12.221#祥店9
-54.199.103.26:443#日本
-agaungzhou01.bumbleshrimp.com:31800#香港
-test123.zlqhdns.top:11555#新加坡
+54.199.103.26#日本
+agaungzhou01.bumbleshrimp.com#香港
+test123.zlqhdns.top#新加坡
